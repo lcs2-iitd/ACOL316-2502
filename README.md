@@ -1,49 +1,14 @@
-# Advanced Large Language Models
-### Course Code: ELL8299/ELL881/AIL861
-### Offering Semester: Semester-I, 2024-25
+# Introduction to Computer Architecture
+### Course Code: ACOL316
+### Offering Semester: Semester-II, 2025-26
 ## Course Description
-The field of Natural Language Processing (NLP) has witnessed rapid progress in recent times, driven mainly by the design and development of Large Language Models (LLMs). With the increase in scale, LLMs exhibit various emergent properties, though there are conflicting opinions among researchers about these phenomena. Nonetheless, LLMs are proving to be useful and are becoming ubiquitous across numerous applications.
-
-This advanced course aims to introduce the latest advancements in generative AI for text and is open to both undergraduate and graduate students. The course is structured into five modules: Basics, Architecture, Learnability, User Acceptability, and Ethics & Miscellaneous. Together, these modules will provide a comprehensive view of the different facets of LLMs.
-
-Students should have a background in Machine Learning and be proficient in Python programming. At least some basic knowledge of Deep Learning and NLP is preferred. Through assignments and a course project, students will acquire the skills necessary to design, implement, and understand LLMs using the PyTorch framework.
+This course introduces the core concepts of computer architecture, with an emphasis on how software is executed on modern hardware systems. Topics include instruction set architectures, processor datapath and control, pipelining, memory hierarchy, and basic principles of parallelism and performance. The course focuses on understanding how architectural design decisions affect program behaviour, efficiency, and scalability, and is intended for undergraduate students with prior experience in programming and basic digital logic.
 
 ### Pre-requisites
 
-#### Mandatory
-• Data Structures and Algorithms <br>
-• Python Programming <br>
-• Machine Learning <br>
+• Computer Programming <br>
+• Digital Logic <br>
 
-#### Desirable
-• Deep Learning <br>
-• Natural Language Processing <br>
-
-### Tentative Syllabus
-• Course Introduction <br>
-• Introduction to Natural Language Processing <br>
-• Introduction to Language Models <br>
-• Word Representation <br>
-• Neural Language Models <br>
-• Introduction to Transformer <br>
-• Pre-training Strategies <br>
-• Advanced Attention Mechanisms <br>
-• Mixture of Experts <br>
-• Scaling Laws <br>
-• Instruction Fine-tuning and In-context Learning <br>
-• Alignment <br>
-• Efficient Adaptation of LLMs <br>
-• Efficient Inference from LLMs <br>
-• Retrieval Augmentation <br>
-• Tool Augmentation <br>
-• Reasoning <br>
-• Vision Language Models <br>
-• Long-context LLMs <br>
-• Model Editing <br>
-• Bias, Toxicity and Hallucination <br>
-• Self-evolving LLMs <br>
-• Interpreting the Inner Workings of LLMs <br>
-• Conclusion <br>
 
 ## Course Convener
 **Tanmoy Chakraborty** <br>

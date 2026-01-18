@@ -9,12 +9,13 @@ url: "http://lcs2-iitd.github.io/" # the base hostname & protocol for your site
 
 schoolname: "IIT Delhi - Abu Dhabi"
 schoolurl: "https://iitdabudhabi.ac.ae/"
-# twitter_username: lcs2lab 
+twitter_username: IITDAD123 
 
 address: |
-    Laboratory for Computational Social Systems (LCS2)
-    Indian Institute of Technology Delhi
-    Hauz Khas, New Delhi - 110016, India
+    Indian Institute of Technology Delhi - Abu Dhabi
+    Address: Khalifa City B, Abu Dhabi, UAE
+    Phone: +971 2 495 8510 (UAE) | +91 11 2659-7135 (India)
+
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X

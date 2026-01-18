@@ -10,6 +10,6 @@ teaching_assistants:
     profile_pic: /_images/pp/anwoy.jpg
     webpage: https://c-anwoy.github.io/
 
-  - name: Aswini
-    profile_pic: /_images/pp/aswini.jpg
-    webpage: https://aswininlp.github.io/
+  # - name: Aswini
+  #   profile_pic: /_images/pp/aswini.jpg
+  #   webpage: https://aswininlp.github.io/

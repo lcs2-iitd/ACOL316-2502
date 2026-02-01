@@ -1,4 +1,5 @@
 ---
-date: 2026-01-19T08:00:00+5:30
+date: 2026-02-01T08:00:00+5:30
 ---
-Welcome to the course ACOL 216: Introduction to Computer Architecture!
+
+[Tutorial-1](static_files/tutorials/ACOL216_Tutorial_1.pdf) is released!

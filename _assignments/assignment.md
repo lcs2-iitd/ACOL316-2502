@@ -14,4 +14,4 @@ Your program will be given a snapshot of a game state via memory and must determ
 All inputs are provided before execution begins, and the program must produce a single deterministic output value.  
 The assignment emphasizes low-level algorithm design, correctness reasoning, memory discipline, and exhaustive handling of edge cases under architectural constraints.
 
-This assignment contributes 10%to the course total.
+This assignment contributes 10% to the course total.

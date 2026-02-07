@@ -3,6 +3,7 @@ type: assignment
 date: 2026-02-07T20:00:00+4:00
 title: 'Assignment 1: RISC-Tac-Toe'
 attachment: /static_files/assignments/ACOL216_Assignment_1.pdf
+due_event:
     type: due
     date: 2026-03-07T23:59:00+4:00
     description: 'Assignment due'
